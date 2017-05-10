@@ -1,0 +1,2 @@
+Hello git
+最初认识git 利用git向githup 推送到远程
